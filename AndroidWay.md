@@ -1,10 +1,16 @@
 # BeginnerJavaCurriculum
 
-## Introduction
+## Week 1. Introduction
  * Introduction to Android World
  * What is Super Calculator?
  * Set up Java, Android Studio and all necessary weapons.
- * Hello World!
+ * Hello World!(code/week1/HelloWorld/)
+
+## Week 2. Let's make calculator
+ * Make a buttons. Display using TextView.
+ * Make click events based on HelloWorld app.
+
+## Week 3. 
  
 ## TBD
 
